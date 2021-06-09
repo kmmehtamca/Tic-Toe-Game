@@ -8,3 +8,4 @@ valinput = 60
 vals.append(valinput)
 print(vals)  
 print("kapil Mehta")
+print("Rishik Mehta")
