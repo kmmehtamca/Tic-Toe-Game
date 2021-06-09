@@ -7,3 +7,4 @@ vals.append(valinput)
 valinput = 60
 vals.append(valinput)
 print(vals)  
+print("kapil Mehta")
