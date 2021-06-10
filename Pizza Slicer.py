@@ -24,5 +24,5 @@ while(start1 !="" ):
         endpoint1= int(input("Enter the finish point"))
         print("\n")
         print(word[start1:endpoint1])
-
+print('Last time')
 print('\\Enter the enter key to exit')
