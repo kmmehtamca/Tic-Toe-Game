@@ -16,7 +16,7 @@ print("Pres  the enter key at 'Start' to exit,")
 word = "pizza"
 start1 = None
 print(word[2:4])
-print("Kapil")
+print("Kapil Mehta")
 while(start1 !="" ):
     start1 = input("Enter the starting point")
     if start1:
